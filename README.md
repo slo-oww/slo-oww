@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0058aa&height=150&section=header&text=&fontSize=90)
 
-## How I work 👨🏻‍💻
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslo-oww%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
+<div align="center">
 <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <a href="https://slo-ow.notion.site/RESUME-323c66fa723845588c93f8d4176302e5"><img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="mailto:myslownavi@gmail.com"><img src="https://img.shields.io/badge/myslownavi@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
 
+## How I work 👨🏻‍💻
 
 - 立場や主張が異なるメンバーとも円滑にコミュニケーションを取り、
   同じ目標に向かって仕事を進めることができます。
@@ -14,8 +15,7 @@
 - GoogleやStack Overflowを開発をする際に活用しております。
 - 現在Notionというアプリケーションを活用して、新しい課題があったときや日常の記録があった際にメモとして有効的に活用し、  
   初めて利用する方にも理解できるように記録をまとめております。
-
-<hr/>
+  
 
 ## What I've experienced so far 📚
 
@@ -39,6 +39,10 @@
 ☁  **AWS**
 
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+
+🔎 **Counting**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslo-oww%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slo-oww&layout=compact&theme=tokyonight&langs_count=6&hide=SCSS,Objective-C,Mustache,Shell,Starlark,Ruby)](https://github.com/anuraghazra/github-readme-stats) -->
