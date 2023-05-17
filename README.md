@@ -5,7 +5,7 @@ Hi, I'm SeongCheol Mun
 <div align="left">
 <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <a href="https://slo-ow.notion.site/RESUME-323c66fa723845588c93f8d4176302e5"><img src="https://img.shields.io/badge/RESUME-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="mailto:myslownavi@gmail.com"><img src="https://img.shields.io/badge/myslownavi@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mun.seongcheol.qf@mynavi.jp"><img src="https://img.shields.io/badge/mun.seongcheol.qf@mynavi.jp-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
